@@ -13,7 +13,7 @@ void analysis()
     string str5=".png";
     string density = "0.9";
     string name;
-    double aboba=1;
+    double aboba=100;
     
     double lambda[jMax], field[jMax];
     
